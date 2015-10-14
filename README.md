@@ -7,27 +7,30 @@ This repository contains a list of tools or methods that have been used in GIAB 
    <sub>github: https://github.com/RealTimeGenomics/rtg-tools</sub><br />
    <sub>giab ftp: ftp://ftp-trace.ncbi.nih.gov/giab/ftp/tools/RTG/</sub><br />
 
-2. FALCON<br />
+2. svclassify <br />
+   <sub>http://biorxiv.org/content/early/2015/05/22/019372</sub><br />
+
+3. FALCON<br />
    <sub>github: https://github.com/PacificBiosciences/falcon</sub><br />
 
-3. PBHoney<br />
+4. PBHoney<br />
    <sub>https://www.hgsc.bcm.edu/software/honey</sub><br />
    <sub>https://sourceforge.net/projects/pb-jelly/</sub><br />
 
-4. MetaSV <br />
+5. MetaSV <br />
    <sub>https://github.com/bioinform/metasv</sub><br />
 
-5. VariationHunter<br />
+6. VariationHunter<br />
    <sub>http://variationhunter.sourceforge.net/Home</sub><br />
 
-6. CGAtools<br />
+7. CGAtools<br />
    <sub>http://cgatools.sourceforge.net/</sub><br />
 
-7. CORTEX <br />
+8. CORTEX <br />
    <sub>http://cortexassembler.sourceforge.net/index_cortex_var.html</sub><br />
+   <sub>http://www.ncbi.nlm.nih.gov/pubmed/22231483</sub><br />
 
-8. svclassify <br />
-   <sub>http://biorxiv.org/content/early/2015/05/22/019372</sub>
+
 
 
 
