@@ -26,6 +26,11 @@ This repository contains a list of tools or methods that have been used in GIAB 
 7. CORTEX <br />
    <sub>http://cortexassembler.sourceforge.net/index_cortex_var.html</sub><br />
 
+8. svclassify <br />
+   <sub>http://biorxiv.org/content/early/2015/05/22/019372</sub>
+
+
+
 
    
 
