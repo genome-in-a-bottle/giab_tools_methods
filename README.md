@@ -14,12 +14,17 @@ This repository contains a list of tools or methods that have been used in GIAB 
    <sub>https://www.hgsc.bcm.edu/software/honey</sub><br />
    <sub>https://sourceforge.net/projects/pb-jelly/</sub><br />
 
-4. MetaSV
+4. MetaSV <br />
    <sub>https://github.com/bioinform/metasv</sub><br />
 
-5. VariationHunter and mrCaNaVar
-6. CGAtools
-7. CORTEX
+5. VariationHunter<br />
+   <sub>http://variationhunter.sourceforge.net/Home</sub><br />
+
+6. CGAtools<br />
+   <sub>http://cgatools.sourceforge.net/</sub><br />
+
+7. CORTEX <br />
+   <sub>http://cortexassembler.sourceforge.net/index_cortex_var.html</sub><br />
 
 
    
