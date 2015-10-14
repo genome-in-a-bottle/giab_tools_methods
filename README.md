@@ -3,12 +3,13 @@ This repository contains a list of tools or methods that have been used in GIAB 
 
 
 1. RTG Tools: <br />
-   <sub>Paper: [Joint variant and de novo mutation identification on pedigrees from high-throughput sequencing data.](http://www.ncbi.nlm.nih.gov/pubmed/24874280) J Comput Biol. 2014 Jun;21(6):405-19. doi: 10.1089/cmb.2014.0029.</sub><br />
    <sub>github: https://github.com/RealTimeGenomics/rtg-tools</sub><br />
+   <sub>Paper: [Joint variant and de novo mutation identification on pedigrees from high-throughput sequencing data.](http://www.ncbi.nlm.nih.gov/pubmed/24874280) J Comput Biol. 2014 Jun;21(6):405-19. doi: 10.1089/cmb.2014.0029.</sub><br />
    <sub>giab ftp: ftp://ftp-trace.ncbi.nih.gov/giab/ftp/tools/RTG/</sub><br />
 
-2. svclassify <br />
-   <sub>http://biorxiv.org/content/early/2015/05/22/019372</sub><br />
+2. SVClassify <br />
+   <sub>github: https://github.com/usnistgov/SVClassify</sub><br />
+   <sub>Paper: http://biorxiv.org/content/early/2015/05/22/019372</sub><br />
 
 3. FALCON<br />
    <sub>github: https://github.com/PacificBiosciences/falcon</sub><br />
@@ -28,7 +29,7 @@ This repository contains a list of tools or methods that have been used in GIAB 
 
 8. CORTEX <br />
    <sub>http://cortexassembler.sourceforge.net/index_cortex_var.html</sub><br />
-   <sub>http://www.ncbi.nlm.nih.gov/pubmed/22231483</sub><br />
+   <sub>Paper: http://www.ncbi.nlm.nih.gov/pubmed/22231483</sub><br />
 
 
 
