@@ -1,5 +1,5 @@
 # giab_tools_methods
-This repository contains a list of tools or methods that have been used in GIAB analysis
+This repository contains a list of tools or methods that have been used in GIAB data analysis
 
 
 1. RTG Tools: <br />
