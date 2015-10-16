@@ -12,8 +12,7 @@ This repository contains a list of tools or methods that have been used in GIAB 
    <sub>Paper: [svclassify: a method to establish benchmark structural variant calls](http://biorxiv.org/content/early/2015/05/22/019372)</sub><br />
 
 3. PBHoney<br />
-   <sub>https://www.hgsc.bcm.edu/software/honey</sub><br />
-   <sub>sourceforge: https://sourceforge.net/projects/pb-jelly/</sub><br />
+   <sub>sourceforge: https://sourceforge.net/projects/pb-jelly/ (or https://www.hgsc.bcm.edu/software/honey)</sub><br />
    <sub>Paper: [PBHoney: identifying genomic variants via long-read discordance and interrupted mapping](http://www.biomedcentral.com/1471-2105/15/180)</sub><br />
 
 4. MetaSV <br />
