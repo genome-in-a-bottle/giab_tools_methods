@@ -13,7 +13,7 @@ This repository contains a list of tools or methods that have been used in GIAB 
 
 3. freebayes: <br />
    <sub>github: https://github.com/ekg/freebayes </sub><br />
-   <sub>Paper: [Haplotype-based variant detection from short-read sequencing](http://arxiv.org/abs/1207.3907)</sub><br /.
+   <sub>Paper: [Haplotype-based variant detection from short-read sequencing](http://arxiv.org/abs/1207.3907)</sub><br />
 
 4. SVClassify <br />
    <sub>github: https://github.com/usnistgov/SVClassify</sub><br />
