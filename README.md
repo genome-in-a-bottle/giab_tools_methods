@@ -50,8 +50,8 @@ This repository contains a list of tools or methods that have been used in GIAB 
 12. FALCON<br />
    <sub>github: https://github.com/PacificBiosciences/falcon</sub><br />
 
-
-
+13. PBSV<br />
+   <sub>github: https://github.com/PacificBiosciences/pbsv</sub><br />
 
 
    
