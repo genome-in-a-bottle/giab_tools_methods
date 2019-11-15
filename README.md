@@ -56,6 +56,7 @@ This repository contains a list of tools or methods that have been used in GIAB 
 14. Peregrine<br />
    <sub>github: https://github.com/cschin/Peregrine</sub><br />
    
-
+15. SVanalyzer<br />
+   <sub>https://github.com/nhansen/SVanalyzer</sub><br />
 
 
