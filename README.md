@@ -53,7 +53,8 @@ This repository contains a list of tools or methods that have been used in GIAB 
 13. PBSV<br />
    <sub>github: https://github.com/PacificBiosciences/pbsv</sub><br />
 
-
+14. Peregrine<br />
+   <sub>github: https://github.com/cschin/Peregrine</sub><br />
    
 
 
